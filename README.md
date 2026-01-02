@@ -66,4 +66,13 @@ This is a **prototype for validation**, not a production system.
 This repository is shared to document **a perspective and experimental result**,
 not to claim a finalized solution.
 
+
+Initial commit: gray-core CMA pipeline with dual-backend execution
+
+- Implemented multi-stage claim routing (PASS / GRAY / GHOST)
+- Confirmed end-to-end execution on Gemini free tier
+- Observed meaningful state separation without human promotion
+- Prototype focused on uncertainty containment, not answer generation
+
+
 Further validation, cost-aware deployment, and scaling analysis remain open.
